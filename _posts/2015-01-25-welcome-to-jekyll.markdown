@@ -1,24 +1,24 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Общественный транспорт в Европе"
 date:   2015-01-25 23:34:44
-categories: jekyll update
+categories: путешествия
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Европейский общественный транспорт каждый раз заставляет меня удивляться и восхищает своим разнообразием. Расскажу немного о том, что увидел побывав, в нескольких европейских городах и странах.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Транспортом в Амстердаме заправляет компания [GVB](http://en.gvb.nl/pages/home.aspx) (_Gemeentevervoerbedrijf_). Под этим брендом тут курсируют автобусы, трамваи, метро и даже паромы.
 
-Jekyll also offers powerful support for code snippets:
+## Метро
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+На сайте GVB есть раздел, посвященный искусству в метро.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+![metro](http://media.tumblr.com/73ecabc72c2ad0f3004bc8aea6f90b5d/tumblr_inline_mok0kiLZQW1qz4rgp.jpg)
+
+Некоторые вагоны украшены совершенно странными коллажами. Я ездил вот в этом — очень мило :)
+
+![Вагон](http://media.tumblr.com/3d113c9d3c63927f90502852bbeda274/tumblr_inline_mok0otLD611qz4rgp.jpg)
+
+
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
