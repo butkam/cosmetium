@@ -14,7 +14,7 @@
 */
 
 body {
-  font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 }
 
 html, body {
@@ -566,3 +566,5 @@ Copyright (c) 2014 Daniel Eden
   -webkit-animation-name: fadeInDown;
           animation-name: fadeInDown;
 }
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,700,300,600,800&subset=cyrillic-ext,latin);
