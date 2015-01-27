@@ -3,8 +3,8 @@ title:       Козметиум
 email:       valentyna.kozlova@gmail.com
 author:      Валентина Козлова
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     "/cosmetium"
-url:         "http://butkam.github.io/cosmetium"
+baseurl:     "/"
+url:         "http://kozmetium.co"
 
 # Google analytics
 google_analytics:
