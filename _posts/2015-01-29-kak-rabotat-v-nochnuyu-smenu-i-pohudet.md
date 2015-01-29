@@ -44,4 +44,4 @@ categories: "лайфстайл"
 
 ![Лестница](/images/ladder.png)
 
-_Источник: [https://www.kaylaitsines.com/](blogs/news/18685223-staying-healthy-when-working-night-shifts)_
+_Источник: [https://www.kaylaitsines.com/](https://www.kaylaitsines.com/blogs/news/18685223-staying-healthy-when-working-night-shifts)_
