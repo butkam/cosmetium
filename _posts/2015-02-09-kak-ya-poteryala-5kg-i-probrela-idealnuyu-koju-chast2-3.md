@@ -20,9 +20,9 @@ categories: "лайфстайл"
 Вот **примеры круговых тренировок** с первых двух страниц поисковой выдачи:
 
 [http://fitbreak.ru/fitnes/37-krugovaya-trenirovka-na-vse-telo-za-30-minut](http://fitbreak.ru/fitnes/37-krugovaya-trenirovka-na-vse-telo-za-30-minut)
-[http://fitbreak.ru/fitnes/37-krugovaya-trenirovka-na-vse-telo-za-30-minut](http://www.azbukadiet.ru/2012/06/02/krugovaya-trenirovka-dlya-szhiganiya-zhira.html)
-[http://fitbreak.ru/fitnes/37-krugovaya-trenirovka-na-vse-telo-za-30-minut](http://www.kpodruge.ru/xudeem/fitnes/krugovaya-trenirovka-dlya-szhiganiya-zhira.html)
-[http://fitbreak.ru/fitnes/37-krugovaya-trenirovka-na-vse-telo-za-30-minut](http://islimming.ru/5879/workouts-for-women-at-home/)
-[http://fitbreak.ru/fitnes/37-krugovaya-trenirovka-na-vse-telo-za-30-minut](http://fitsexygirl.com/?p=216)
+[http://www.azbukadiet.ru/2012/06/02/krugovaya-trenirovka-dlya-szhiganiya-zhira.html](http://www.azbukadiet.ru/2012/06/02/krugovaya-trenirovka-dlya-szhiganiya-zhira.html)
+[http://www.kpodruge.ru/xudeem/fitnes/krugovaya-trenirovka-dlya-szhiganiya-zhira.html](http://www.kpodruge.ru/xudeem/fitnes/krugovaya-trenirovka-dlya-szhiganiya-zhira.html)
+[http://islimming.ru/5879/workouts-for-women-at-home/](http://islimming.ru/5879/workouts-for-women-at-home/)
+[http://fitsexygirl.com/?p=216](http://fitsexygirl.com/?p=216)
 
 Но ни один комплекс тренировок не будет таким эффективным, как вы хотите, если вы продолжите плохо питаться (вы плохо питаетесь, как и все вокруг, это правда). О том, как питаться по системе, которой я придерживаюсь, расскажу в следующем посте :)
