@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="816px" height="741px" viewBox="0 0 816 741" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg width="1200px" height="1200px" viewBox="0 0 1200 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
     <title>koza-50px</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
+    <defs>
+        <circle id="path-1" cx="1282" cy="1264" r="492"></circle>
+    </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Artboard-2" sketch:type="MSArtboardGroup" transform="translate(-880.000000, -943.000000)">
-            <rect id="Rectangle-2" fill="#FFFFFF" sketch:type="MSShapeGroup" x="696" y="716" width="1181" height="1161"></rect>
+        <g id="Artboard-2" sketch:type="MSArtboardGroup" transform="translate(-688.000000, -665.000000)">
             <path d="M1056.0625,1094.27734 L1102.65234,1075.16406 L1459.88221,1075.16406 L1516.21484,1096.28906 C1516.21484,1096.28906 1359.54297,1669.125 1288.05469,1669.125 C1216.56641,1669.125 1056.0625,1094.27734 1056.0625,1094.27734 Z" id="Path-17" fill="#000000" sketch:type="MSShapeGroup"></path>
             <path d="M1039.49219,1100.99219 C1051.875,1183.17188 1170.08594,1673.96875 1282.85156,1673.96875 C1395.61718,1673.96875 1512.57812,1180.58594 1528.84375,1093.35938 C1545.10937,1006.13281 1544.30078,954.992189 1528.84374,954.992188 C1513.38671,954.992188 1500.73047,1008.76953 1460.78906,1088.0625 C1447.53124,1172.97656 1334.01562,1633.45312 1283.85156,1633.45312 C1233.6875,1633.45312 1123.68555,1166.84375 1106.53711,1088.0625 C1068.45312,1014.15625 1060.46875,954.992188 1048.61719,954.992188 C1036.76562,954.992188 1027.10937,1018.81249 1039.49219,1100.99219 Z" id="Path-3" fill="#000000" sketch:type="MSShapeGroup"></path>
             <path d="M1075.59375,1085.57031 C1283,1006.91113 1283,1003.57227 1487.14844,1084.875 C1490.02734,1092.73926 1487.05469,1107.6875 1487.05469,1107.6875 L1080.71875,1110.29688 C1080.71875,1110.29688 1075.67188,1097.20996 1075.59375,1085.57031 Z" id="Path-4" fill="#000000" sketch:type="MSShapeGroup"></path>
@@ -20,6 +21,10 @@
             </g>
             <path d="M1684.88683,1163.73699 C1684.88683,1150.5123 1624.80295,1129.21067 1599.22466,1100.01251 C1573.64638,1070.81435 1534.11905,1061.76327 1525.39788,1093.09963 C1516.67671,1124.43598 1547.77949,1141.35665 1565.63123,1150.5123 C1583.48297,1159.66795 1684.88683,1176.96168 1684.88683,1163.73699 Z" id="Path-9" stroke="#000000" stroke-width="10" fill="#000000" sketch:type="MSShapeGroup" transform="translate(1604.386826, 1121.004566) scale(-1, 1) translate(-1604.386826, -1121.004566) "></path>
             <path d="M1038.55067,1154.74805 C1038.55067,1145.33728 982.175544,1119.0113 953.672952,1089.19657 C925.170361,1059.38183 895.036599,1062.74363 890.544917,1089.19657 C886.053235,1115.6495 902.089987,1130.20302 927.88147,1142.47554 C953.672953,1154.74805 1038.55067,1164.15881 1038.55067,1154.74805 Z" id="Path-10" stroke="#000000" stroke-width="10" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <g id="Oval-1" stroke="#000000">
+                <use stroke-width="1" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <use stroke-width="3" xlink:href="#path-1"></use>
+            </g>
         </g>
     </g>
 </svg>
