@@ -1,7 +1,7 @@
 # Site settings
 title:       Козметиум
-email:       valentyna.kozlova@gmail.com
-author:      Валентина Козлова
+email:       
+author:      
 description: "Блог о здоровье, красоте и путешествиях — это просто ужасная банальщина. У нас не такое :)"
 baseurl:     ""
 url:         "http://kozmetium.co"
