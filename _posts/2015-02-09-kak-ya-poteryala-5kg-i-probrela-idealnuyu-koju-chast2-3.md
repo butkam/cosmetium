@@ -27,4 +27,4 @@ categories: "лайфстайл"
 
 Но ни один комплекс тренировок не будет таким эффективным, как вы хотите, если вы продолжите плохо питаться (вы плохо питаетесь, как и все вокруг, это правда). О том, как питаться по системе, которой я придерживаюсь, расскажу в следующем посте :)
 
-[⟵ Вернутся к первой части](http://kozmetium.co/лайфстайл/2015/02/09/kak-ya-poteryala-5kg-i-probrela-idealnuyu-koju-chast1-3/) ∙ Перейти к [третьей части статьи ⟶](http://kozmetium.co/лайфстайл/2015/02/09/kak-ya-poteryala-5kg-i-probrela-idealnuyu-koju-chast3-3/)
+[← Вернутся к первой части](http://kozmetium.co/лайфстайл/2015/02/09/kak-ya-poteryala-5kg-i-probrela-idealnuyu-koju-chast1-3/) ∙ Перейти к [третьей части статьи →](http://kozmetium.co/лайфстайл/2015/02/09/kak-ya-poteryala-5kg-i-probrela-idealnuyu-koju-chast3-3/)

@@ -20,4 +20,4 @@ categories: "лайфстайл"
 
 О тренировках и питании расскажу в следующих постах, уже скоро!
 
-Перейти ко [второй части статьи ⟶](http://kozmetium.co/лайфстайл/2015/02/09/kak-ya-poteryala-5kg-i-probrela-idealnuyu-koju-chast2-3/)
+Перейти ко [второй части статьи →](http://kozmetium.co/лайфстайл/2015/02/09/kak-ya-poteryala-5kg-i-probrela-idealnuyu-koju-chast2-3/)
