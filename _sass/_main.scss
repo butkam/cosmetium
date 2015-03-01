@@ -41,14 +41,6 @@ img {
   height: 120px;
 }
 
-hr {
-  height: 1px;
-  background: #CCCCCC;
-  width: 100%;
-  font-size: 1px; /* IE 6 */
-  overflow: hidden
-}
-
 body {
   font-size: 1.5rem;
 
@@ -493,6 +485,10 @@ h6,
     margin-bottom: .666em;
     padding-bottom: 0;
   }
+}
+
+.my-line {
+  border-bottom: thin solid #f3f3f3;
 }
 
 footer {
