@@ -41,6 +41,13 @@ img {
   height: 120px;
 }
 
+hr {
+  height: 1px;
+  background: #CCCCCC;
+  width: 100%;
+  font-size: 1px; /* IE 6 */
+}
+
 body {
   font-size: 1.5rem;
 
