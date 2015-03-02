@@ -16,11 +16,11 @@
 body {
   font-family: 'PT Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 400;
+  -webkit-font-smoothing: antialiased;
 }
 
 html, body {
   height: 100%;
-  -webkit-font-smoothing: antialiased;
 }
 
 img {
