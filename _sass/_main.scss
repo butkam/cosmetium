@@ -498,9 +498,32 @@ h6,
 
 .logo {
   margin: 0 auto;
+  background-image: url(/images/gfx/kz_logo.png);
+  background-size: 240px 118px;
   width: 240px;
   height: 118px;
+  background-repeat: no-repeat;
+  display: block;
 }
+
+@media (min--moz-device-pixel-ratio: 1.5),
+       (-o-min-device-pixel-ratio: 3/2),
+       (-webkit-min-device-pixel-ratio: 1.5),
+       (min-device-pixel-ratio: 1.5),
+       (min-resolution: 144dpi),
+       (min-resolution: 1.5dppx) {
+ 
+.logo {
+  background-image: url(/images/gfx/kz_logo@2x.png);
+  background-size: 240px 118px;
+  width: 240px;
+  height: 118px;
+  background-repeat: no-repeat;
+  display: block;
+}
+ 
+}
+
 
 footer {
   border-top: thin solid #f3f3f3;
