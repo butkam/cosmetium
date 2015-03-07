@@ -43,7 +43,7 @@ img {
 }
 
 body {
-  font-size: 1.5rem;
+  font-size: 1rem;
 
           box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -84,11 +84,19 @@ body {
   padding: 0;
 }
 
+.post-summary {
+  color: #767575;
+}
+
 .site-header a:hover,
 .posts .post a:hover .post-meta,
 .posts .post a:hover .post-title,
 .posts .post a:hover .post-summary {
   opacity: 0.88;
+}
+
+.post-divider {
+  text-align: center;
 }
 
 /*
@@ -138,7 +146,6 @@ table {
 }
 
 .related-post-title {
-  border-bottom: thin solid #f3f3f3;
 }
 
 .posts {
@@ -148,7 +155,6 @@ table {
 .posts .post {
   margin-bottom: 0.75em;
   padding-bottom: .375em;
-  border-bottom: thin solid #f3f3f3;
 }
 
 .posts .post:last-child {
@@ -215,7 +221,7 @@ table {
 .meta,
 .post-meta {
   width: auto;
-  font-size: 1rem;
+  font-size: 0.6667rem;
   font-weight: 300;
   margin: 0;
   padding: .25em 0;
@@ -310,7 +316,7 @@ h5,
 h6,
 .h6 {
   font-family: "PT Serif", "Times New Roman", serif;
-  font-weight: 900;
+  font-weight: 400 !important;
   line-height: 1.2;
   margin: 1em 0 0.5em;
 }
@@ -342,17 +348,17 @@ h6,
   .post-meta {
     margin: 0;
     padding: 0;
-    font-size: 1.25rem;
+    font-size: 0.6667rem;
   }
 
   .h1,
   h1 {
-    font-size: 3.250rem;
+    font-size: 2.5rem;
   }
 
   .h2,
   h2 {
-    font-size: 2.298rem;
+    font-size: 1.556rem;
   }
 
   .h3,
@@ -368,12 +374,12 @@ h6,
   .p,
   p,
   li {
-    font-size: 1.25rem;
+    font-size: 1.2rem;
     line-height: 1.8;
   }
 
   .small {
-    font-size: 1rem;
+    font-size: 0.6667rem;
   }
 
   table {
@@ -387,7 +393,6 @@ h6,
   .posts .post {
     margin-bottom: 1.333em;
     padding-bottom: 0.666em;
-    border-bottom: thin solid #f3f3f3;
   }
 
   .posts .post:last-child {
@@ -406,12 +411,12 @@ h6,
 
   .h1,
   h1 {
-    font-size: 2.827rem;
+    font-size: 2.5rem;
   }
 
   .h2,
   h2 {
-    font-size: 1.999rem;
+    font-size: 1.556rem;
   }
 
   .h3,
@@ -421,7 +426,7 @@ h6,
 
   .h4,
   h4 {
-    font-size: 1rem;
+    font-size: 1.2rem;
   }
 
   .site-header {
@@ -449,12 +454,12 @@ h6,
 @media screen and (min-width: 64em) {
   .h1,
   h1 {
-    font-size: 4.498rem;
+    font-size: 2.5rem;
   }
 
   .h2,
   h2 {
-    font-size: 3.18rem;
+    font-size: 1.8rem;
   }
 
   .h3,
@@ -478,7 +483,6 @@ h6,
   .posts .post {
     margin-bottom: 2.666em;
     padding-bottom: 1.333em;
-    border-bottom: thin solid #f3f3f3;
   }
 
   .posts .post:last-child {
@@ -489,13 +493,13 @@ h6,
 }
 
 .my-line {
-  border-bottom: thin solid #f3f3f3;
   margin-bottom: 35px;
 }
 
 .logo {
   margin: 0 auto;
-  width: 50px;
+  width: 240px;
+  height: 118px;
 }
 
 footer {
