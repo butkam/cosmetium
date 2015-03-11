@@ -344,8 +344,15 @@ h6,
     top: 0.1em;
 }
 
-.fb-like {
-  padding: 10px 0 55px 0;
+.post-social {
+    padding-bottom: 45px;
+    padding-top: 10px;
+}
+
+.like-box {
+    width: 100px;
+    margin: 0 auto;
+    padding: 20px 0;
 }
 
 @media screen and (min-width: 48em) {
