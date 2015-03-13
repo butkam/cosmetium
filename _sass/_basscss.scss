@@ -368,13 +368,13 @@ strong, .bold {
 }
 
 .py-responsive {
-  padding-top: 1.5rem;
+  padding-top: 1rem;
   padding-bottom: 1.5rem;
 }
 
 @media screen and (min-width: 48em) and (max-width: 64em) {
   .p-responsive {
-    padding: 3rem;
+    padding: 1.5rem;
   }
 
   .px-responsive {
@@ -389,7 +389,7 @@ strong, .bold {
 }
 @media screen and (min-width: 64em) {
   .p-responsive {
-    padding: 4rem;
+    padding: 2rem;
   }
 
   .px-responsive {
