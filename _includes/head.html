@@ -7,14 +7,6 @@
     <meta name="author" content="{{ site.author }}">
     {% if page.categories %}<meta name="keywords" content="{{ page.categories | join: ', ' }}">{% endif %}
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <meta property="og:image" content="http://kozmetium.co/kz_fb_b_share.jpg" />
-    <meta property="og:site_name" content="Kozmetium"/>
-    {% if page.post %}
-    <meta property="og:title" content='{{ post.title }}' />
-    <meta property="og:url" content="{{ post.url | prepend: site.baseurl }}" />
-    <meta property="og:description" content="{{ post.summary }}" />
-    {% endif %}
-    <meta property="fb:app_id" content="349766971883597" />
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/pixyll.css" | prepend: site.baseurl }}" type="text/css">
