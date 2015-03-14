@@ -36,7 +36,7 @@ layout: default
   </script>
 </div>
 
-<!-- {% if site.show_post_footers %}
+{% if site.show_post_footers %}
   {% include post_footer.html %}
 {% endif %}
 {% if site.disqus_shortname %}
@@ -55,9 +55,7 @@ layout: default
   };
   </script>
   <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-{% endif %} -->
-
-<div class="fb-comments" data-href="{{ post.url | prepend: site.baseurl }}" data-numposts="5" data-colorscheme="light"></div>
+{% endif %}
 
 {% if site.show_related_posts %}
   <h3 class="related-post-title">Похожие статьи</h3>
