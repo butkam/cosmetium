@@ -9,3 +9,7 @@ Allow: /
 
 User-Agent: Googlebot-Image
 Allow: /
+
+User-agent: Facebot/1.0
+Crawl-delay: 10 # seconds
+Allow: /
