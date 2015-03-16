@@ -65,7 +65,8 @@ body {
 
 .site-header {
   background-color: #FFCC66;
-  padding: 15px 0; 
+  padding: 15px 0;
+  border-bottom: 1px solid #CC9900;
 }
 
 .money-box {
@@ -333,7 +334,7 @@ h6,
   font-family: "PT Serif", "Times New Roman", serif;
   font-weight: 400 !important;
   line-height: 1.2;
-  margin: 1em 0 0.5em;
+  margin: 1em 0 0.1em;
 }
 
 .social-icons {
@@ -362,7 +363,10 @@ h6,
 .like-box {
     width: 100px;
     margin: 0 auto;
-    padding: 20px 0;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    display: block;
+    height: 25px;
 }
 
 @media screen and (min-width: 48em) {
@@ -379,7 +383,7 @@ h6,
 
   .h1,
   h1 {
-    font-size: 2.5rem;
+    font-size: 2rem;
   }
 
   .h2,
@@ -437,7 +441,7 @@ h6,
 
   .h1,
   h1 {
-    font-size: 2.5rem;
+    font-size: 2rem;
   }
 
   .h2,
@@ -457,7 +461,8 @@ h6,
 
   .site-header {
     text-align: center;
-    background-color: #FFCC66 ;
+    background-color: #FFCC66;
+    border-bottom: 1px solid #CC9900;
     padding: 40px 0;
   }
 
@@ -482,7 +487,7 @@ h6,
 @media screen and (min-width: 64em) {
   .h1,
   h1 {
-    font-size: 2.5rem;
+    font-size: 2rem;
   }
 
   .h2,
