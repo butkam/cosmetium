@@ -64,9 +64,7 @@ body {
 }
 
 .site-header {
-  background-color: #FFCC66;
   padding: 15px 0;
-  border-bottom: 1px solid #CC9900;
 }
 
 .money-box {
@@ -331,10 +329,10 @@ h5,
 .h5,
 h6,
 .h6 {
-  font-family: "PT Serif", "Times New Roman", serif;
+  font-family: Georgia, "Times New Roman", serif;
   font-weight: 400 !important;
   line-height: 1.2;
-  margin: 1em 0 0.1em;
+  margin: 1em 0 0.5em;
 }
 
 .social-icons {
@@ -398,14 +396,14 @@ h6,
 
   .h4,
   h4 {
-    font-size: 1.150rem;
+    font-size: 1.3rem;
   }
 
   .p,
   p,
   li {
-    font-size: 1.2rem;
-    line-height: 1.8;
+    font-size: 1.35em;
+    line-height: 1.6em; 
   }
 
   .small {
@@ -456,13 +454,11 @@ h6,
 
   .h4,
   h4 {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
   }
 
   .site-header {
     text-align: center;
-    background-color: #FFCC66;
-    border-bottom: 1px solid #CC9900;
     padding: 40px 0;
   }
 
@@ -487,12 +483,12 @@ h6,
 @media screen and (min-width: 64em) {
   .h1,
   h1 {
-    font-size: 2rem;
+    font-size: 2.5rem;
   }
 
   .h2,
   h2 {
-    font-size: 1.8rem;
+    font-size: 2rem;
   }
 
   .h3,
@@ -502,7 +498,7 @@ h6,
 
   .h4,
   h4 {
-    font-size: 1.591rem;
+    font-size: 1.7rem;
   }
 
   .posts .post-meta {
