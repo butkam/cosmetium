@@ -43,3 +43,5 @@ summary: "Вы тщательно чистите зубы нитью, затем
 А что необычного вы делаете, чтобы добиться красивой улыбки и свежего дыхания?
 
 _Источник: [http://thehairpin.com/](http://thehairpin.com/2015/01/the-truth-about-your-smile/)_
+
+> Читайте также: [Накладные ресницы: полная пошаговая инструкция](/красота/2015/03/12/nakladnye-resnitsy-polnay-poshgovaya-instrukciya/)
