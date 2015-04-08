@@ -23,6 +23,28 @@ html, body {
   height: 100%;
 }
 
+.hr {
+  margin-left: 110px;
+  padding-top: 45px;
+}
+
+.line {
+  height: 1px;
+  width: 150px;
+  background-color: #CCCCCC;
+  display: inline-block;
+}
+
+.dot {
+  width: 5px;
+  height: 5px;
+  background-color: #CCCCCC;
+  position: relative;
+  display: inline-block;
+  border-radius: 4px;
+  vertical-align: -2px;
+}
+
 img {
   width: auto;
   max-width: 100%;
@@ -411,6 +433,11 @@ h6,
     font-size: 1.3rem;
   }
 
+  .hr {
+    margin-left: 110px;
+    padding-top: 45px;
+  }
+
   .p,
   p,
   li {
@@ -467,6 +494,11 @@ h6,
   .h4,
   h4 {
     font-size: 1.5rem;
+  }
+
+  .hr {
+    margin-left: 110px;
+    padding-top: 45px;
   }
 
   .site-header {
