@@ -76,6 +76,12 @@ body {
   padding-top: 25px;
 }
 
+.pin-button {
+  position: absolute;
+  margin-left: -80px;
+  padding-top: 14px;
+}
+
 .gist,
 .gist .highlight .p {
   font-size: .75rem;
@@ -467,6 +473,12 @@ h6,
     margin-bottom: .333em;
     padding-bottom: 0;
   }
+  
+  .pin-button {
+    position: absolute;
+    margin-left: -70px;
+    padding-top: 7px;
+  }
 }
 
 @media screen and (max-width: 48em) {
@@ -563,6 +575,12 @@ h6,
     margin-bottom: .666em;
     padding-bottom: 0;
   }
+
+  .pin-button {
+    position: absolute;
+    margin-left: -80px;
+    padding-top: 14px;
+}
 }
 
 .my-line {
