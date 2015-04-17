@@ -439,6 +439,21 @@ h6,
     font-size: 1.3rem;
   }
 
+  .big-picture {
+    margin-left: -50px;
+    max-width: 750px; 
+  }
+
+  .part {
+    font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+    font-size: 14px;
+    display: block;
+    position: absolute;
+    margin-top: 7px;
+    margin-left: -40px;
+    color: #999;
+  }
+
   .hr {
     margin-left: 110px;
     padding-top: 45px;
@@ -479,6 +494,7 @@ h6,
     margin-left: -70px;
     padding-top: 7px;
   }
+
 }
 
 @media screen and (max-width: 48em) {
@@ -516,6 +532,16 @@ h6,
   .site-header {
     text-align: center;
     padding: 40px 0;
+  }
+
+  .part {
+    font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+    font-size: 14px;
+    display: block;
+    position: absolute;
+    margin-top: 7px;
+    margin-left: -50px;
+    color: #999;
   }
 
   .site-header .site-title {
@@ -561,6 +587,11 @@ h6,
     padding-bottom: .2em;
   }
 
+  .big-picture {
+    margin-left: -192px;
+    max-width: 1024px;
+  }
+
   .post-link .post-title {
     margin-top: .125em;
   }
@@ -574,6 +605,16 @@ h6,
     border-bottom: none;
     margin-bottom: .666em;
     padding-bottom: 0;
+  }
+
+  .part {
+    font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+    font-size: 14px;
+    display: block;
+    position: absolute;
+    margin-top: 12px;
+    margin-left: -40px;
+    color: #999;
   }
 
   .pin-button {
