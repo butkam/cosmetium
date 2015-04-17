@@ -344,8 +344,12 @@ pre {
 
 blockquote {
   padding: 1.33em;
+  text-align: center;
   font-style: italic;
-  border-left: 5px solid #7a7a7a;
+  font-size: 1.3em;
+  margin-left: -190px;
+  width: 960px;
+  /*border-left: 5px solid #7a7a7a;*/
 }
 
 blockquote footer {
@@ -444,6 +448,16 @@ h6,
     max-width: 750px; 
   }
 
+  blockquote {
+    padding: 1.23em;
+    text-align: center;
+    font-style: italic;
+    font-size: 1.2em;
+    margin-left: -90px;
+    width: 750px;
+    /*border-left: 5px solid #7a7a7a;*/
+  }
+
   .part {
     font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
     font-size: 14px;
@@ -499,9 +513,10 @@ h6,
 
 @media screen and (max-width: 48em) {
   blockquote {
-    margin-left: 1rem;
+    margin-left: 0.1rem;
     margin-right: 0;
     padding: 0.5em;
+    width: auto;
   }
 
   .h1,
@@ -605,6 +620,16 @@ h6,
     border-bottom: none;
     margin-bottom: .666em;
     padding-bottom: 0;
+  }
+
+  blockquote {
+    padding: 1.33em;
+    text-align: center;
+    font-style: italic;
+    font-size: 1.3em;
+    margin-left: -190px;
+    width: 960px;
+    /*border-left: 5px solid #7a7a7a;*/
   }
 
   .part {
