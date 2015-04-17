@@ -1,8 +1,36 @@
 <header class="site-header px2 px-responsive">
   <div class="mt2 wrap">
   <a href="{{ site.url }}">
-    <div class="logo"></div>
+    <div id="logo" class="logo" onload="logoScale()"></div>
     </a>
+    <script>
+      function scale(el, val) {
+        el.style.mozTransform =
+        el.style.msTransform =
+        el.style.webkitTransform =
+        el.style.transform = 'scale3d(' + val + ', ' + val + ', 1)';
+      }
+
+      var el = document.getElementById('logo');
+
+      var springSystem = new rebound.SpringSystem();
+      var spring = springSystem.createSpring(50, 3);
+        spring.addListener({
+          onSpringUpdate: function(spring) {
+            var val = spring.getCurrentValue();
+            val = rebound.MathUtil.mapValueInRange(val, 0, 1, 1, 0.5);
+            scale(el, val);
+        }
+      });
+
+      el.addEventListener('mouseover', function() {
+      spring.setEndValue(0.1);
+      });
+
+      el.addEventListener('mouseout', function() {
+      spring.setEndValue(0);
+      });
+    </script>
     <div class="like-box">
       <div class="fb-like recommerd" data-href="http://kozmetium.co/" data-width="100" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
     </div>
