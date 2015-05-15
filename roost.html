@@ -42,7 +42,7 @@
             if (supportsPush) {
                 var alreadyAnswered = Notification.permission != "default";
                 var tags = query.tags;
-                var host = query.host && query.host.length > 0 ? query.host[0] : "https://go.goroost.com";
+                var host = "https://go.goroost.com";
                 var alias = query.alias && query.alias.length > 0 ? query.alias[0] : null;
                 var appKey = query.appKey && query.appKey.length > 0 ? query.appKey[0] : null;
                 var firstTime = query.firstTime && query.firstTime.length > 0 ? query.firstTime[0] === "true" : !alreadyAnswered;
@@ -74,7 +74,7 @@
                             if (logging) console.log("SW ready", swr);
                             //We don't want to fire two events in the case that the service worker does install early.
                             if (alreadyAnswered) {
-                                swr.pushManager.subscribe().then(
+                                swr.pushManager.subscribe({userVisible: true}).then(
                                     function (pushRegistration) {
                                         if (logging) console.log("registered", pushRegistration);
                                         var regID = pushRegistration.subscriptionId;
